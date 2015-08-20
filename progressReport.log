@@ -1,0 +1,227 @@
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2015.8.20)  20 AUG 2015 15:32
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**progressReport
+(./progressReport.tex
+pLaTeX2e <2006/11/10> (based on LaTeX2e <2015/01/01> patch level 0)
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(./matsushita-zemi.cls
+Document Class: matsushita-zemi 2015/08/12 v2.1 松下ゼミ用レポートスタイル
+(/usr/local/texlive/2015/texmf-dist/tex/platex/base/jarticle.cls
+Document Class: jarticle 2006/06/27 v1.6 Standard pLaTeX class
+\c@@paper=\count81
+(/usr/local/texlive/2015/texmf-dist/tex/platex/base/jsize10.clo
+File: jsize10.clo 2006/06/27 v1.6 Standard pLaTeX file (size option)
+)
+\c@part=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@subparagraph=\count87
+\c@figure=\count88
+\c@table=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 601.
+\toclineskip=\dimen118
+\@lnumwidth=\dimen119
+\bibindent=\dimen120
+\heisei=\count90
+)
+\xoffset=\skip43
+\yoffset=\skip44
+\tmpmargin=\skip45
+\DVItime=\count91
+\hour=\count92
+\minute=\count93
+\tempmin=\count94
+\pagewidth=\dimen121
+\pageheight=\dimen122
+\@pph=\dimen123
+\@ppw=\dimen124
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/dvipdfmx-def/dvipdfmx.def
+File: dvipdfmx.def 2015/03/26 v4.04 LaTeX color/graphics driver for dvipdfmx (T
+eX Live/ChoF)
+))
+\Gin@req@height=\dimen125
+\Gin@req@width=\dimen126
+)
+(/usr/local/texlive/2015/texmf-dist/tex/platex/base/ascmac.sty
+(/usr/local/texlive/2015/texmf-dist/tex/platex/base/tascmac.sty
+\@savetbaselineshift=\dimen127
+\@saveybaselineshift=\dimen128
+\scb@x=\box41
+\scscb@x=\box42
+\@bw=\dimen129
+\@nbox=\box43
+\@nbody=\box44
+\@scw=\dimen130
+\@itemh=\dimen131
+\@iboxpos=\toks16
+\@iboxstr=\box45
+\@bwsp=\box46
+\@@bwsp=\box47
+\@bcal=\count95
+\shaderule=\dimen132
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip46
+\fb@frw=\dimen133
+\fb@frh=\dimen134
+\FrameRule=\dimen135
+\FrameSep=\dimen136
+)
+(./progressReport.aux)
+\openout1 = `progressReport.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 23.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 23.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 26.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 26.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 26.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 26.
+ [1
+
+
+
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 79.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 134.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 134.
+
+
+LaTeX Warning: Citation `okumura' on page 2 undefined on input line 135.
+
+
+LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
+(Font)              using `JT1/mc/m/n' instead on input line 179.
+
+
+LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
+(Font)              using `JY1/mc/m/n' instead on input line 179.
+
+[2] [3]
+File: ./fig/figureSample.eps Graphic file (type eps)
+ <./fig/figureSample.eps>
+File: ./fig/figureSample2.eps Graphic file (type eps)
+ <./fig/figureSample2.eps>
+File: ./fig/figureSample2.eps Graphic file (type eps)
+
+<./fig/figureSample2.eps>
+File: ./fig/figureSample3.eps Graphic file (type eps)
+ <./fig/figureSample3.eps>
+
+LaTeX Warning: Citation `okumura' on page 4 undefined on input line 358.
+
+
+LaTeX Warning: Citation `companion' on page 4 undefined on input line 358.
+
+
+LaTeX Warning: Citation `okumura' on page 4 undefined on input line 380.
+
+
+LaTeX Warning: Citation `companion' on page 4 undefined on input line 380.
+
+
+LaTeX Warning: Citation `j024' on page 4 undefined on input line 381.
+
+
+LaTeX Warning: Citation `j027' on page 4 undefined on input line 381.
+
+
+LaTeX Warning: Citation `c028' on page 4 undefined on input line 382.
+
+
+LaTeX Warning: Citation `m139' on page 4 undefined on input line 384.
+
+
+LaTeX Warning: Citation `m174' on page 4 undefined on input line 384.
+
+
+LaTeX Warning: Citation `m186' on page 4 undefined on input line 386.
+
+[4]
+Underfull \hbox (badness 2173) in paragraph at lines 393--398
+[]\JY1/mc/m/it/10 謝辞がある場合には ， 参考文献リストの直前に ，
+ []
+
+No file progressReport.bbl.
+[5
+
+] (./progressReport.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 808 strings out of 493777
+ 9824 string characters out of 6151334
+ 75911 words of memory out of 5000000
+ 4330 multiletter control sequences out of 15000+600000
+ 12291 words of font info for 49 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 28i,10n,21p,1106b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on progressReport.dvi (5 pages, 31268 bytes).
